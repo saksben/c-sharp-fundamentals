@@ -1,14 +1,5 @@
-D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.exe
-D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.deps.json
-D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.runtimeconfig.json
-D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.dll
-D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.pdb
 D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
 D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
 D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.AssemblyInfo.cs
 D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
-D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.dll
-D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\obj\Debug\net8.0\refint\BethanysPieShopHRM.dll
-D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.pdb
-D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.genruntimeconfig.cache
-D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\obj\Debug\net8.0\ref\BethanysPieShopHRM.dll
+D:\Coding\Projects\Pluralsight\c#-fundamentals\HelloFromCSharp\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Coding\\Projects\\Pluralsight\\c#-fundamentals\\HelloFromCSharp\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj": {}
+    "D:\\Coding\\Projects\\Pluralsight\\c#-fundamentals\\HelloFromCSharp\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj": {}
   },
   "projects": {
-    "d:\\Coding\\Projects\\Pluralsight\\c#-fundamentals\\HelloFromCSharp\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj": {
+    "D:\\Coding\\Projects\\Pluralsight\\c#-fundamentals\\HelloFromCSharp\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Coding\\Projects\\Pluralsight\\c#-fundamentals\\HelloFromCSharp\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
+        "projectUniqueName": "D:\\Coding\\Projects\\Pluralsight\\c#-fundamentals\\HelloFromCSharp\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
         "projectName": "BethanysPieShopHRM",
-        "projectPath": "d:\\Coding\\Projects\\Pluralsight\\c#-fundamentals\\HelloFromCSharp\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
+        "projectPath": "D:\\Coding\\Projects\\Pluralsight\\c#-fundamentals\\HelloFromCSharp\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
         "packagesPath": "C:\\Users\\saksb\\.nuget\\packages\\",
-        "outputPath": "d:\\Coding\\Projects\\Pluralsight\\c#-fundamentals\\HelloFromCSharp\\BethanysPieShopHRM\\obj\\",
+        "outputPath": "D:\\Coding\\Projects\\Pluralsight\\c#-fundamentals\\HelloFromCSharp\\BethanysPieShopHRM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
